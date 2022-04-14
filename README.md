@@ -1,6 +1,5 @@
-# airbnb-analysis
-## NYC Airbnb data exploration
-### Context
+# NYC Airbnb data exploration
+## Context
 Airbnb is an online marketplace that connects people who want to rent out their homes with people looking for accommodations in that locale. NYC is the most populous city in the United States, and one of the most popular tourism and business places globally.
 
 Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019.
